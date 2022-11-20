@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://abdulfadel.github.io/tech-blog/sitemap.xml
