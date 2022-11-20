@@ -1,0 +1,10 @@
+{
+    "uuid": "uuid-1668973141089-217938867",
+    "name": "tech-blog",
+    "displayName": "Tech Blog",
+    "logo": {
+        "icon": "web-pizza",
+        "color": 1
+    },
+    "theme": "simple"
+}
